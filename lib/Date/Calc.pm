@@ -50,7 +50,7 @@ BEGIN # Re-export imports from Date::Calc::XS or Date::Calc::PP:
 ##                                              ##
 ##################################################
 
-$VERSION     = '6.3';
+$VERSION     = '6.4_01';
 
 sub Version { return $VERSION; }
 
